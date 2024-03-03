@@ -1,0 +1,8 @@
+[
+  { "name": "The Password Game", "developer": "Neil.fun", "url": "https://neal.fun/password-game/" },
+  { "name": "Rocks", "developer": "Neil.fun", "url": "https://neal.fun/rocks/" },
+  { "name": "2048", "developer": "Gabriele Cirulli", "url": "https://play2048.co/" },
+  { "name": "Quick, Draw!", "developer": "Google", "url": "https://quickdraw.withgoogle.com/" },
+  { "name": "Wordle", "developer": "New York Times", "url": "https://www.nytimes.com/games/wordle/index.html" },
+  { "name": "Branching Out", "developer": "Henry Hoffman", "url": "https://henryhoffman.com/branchingout/" }
+]
