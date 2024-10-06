@@ -9,6 +9,15 @@
     ]
   },
   {
+    "offerTitle": "Follow the Steps",
+    "reward": "$10",
+    "steps": [
+      "1. Click on 'Complete Offer'",
+      "2. Sign Up",
+      "3. Complete 1 Offer"
+    ]
+  },
+  {
     "offerTitle": "Another Offer",
     "reward": "$15",
     "steps": [
